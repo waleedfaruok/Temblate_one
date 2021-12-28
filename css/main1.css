@@ -204,7 +204,7 @@ cursor: pointer;
         flex-direction: column;
     }
 }
-@media(max-width:767px){
+@media(max-width:991px){
     .contewre{
         flex-direction: column;
     }
