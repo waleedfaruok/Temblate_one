@@ -61,7 +61,7 @@ header{
     width: 200px;
     top:100%;
     right: 3px;
-    transform: translateX(300px);
+    transform: translateX(500px);
     display: flex;
     flex-direction: column;
     text-align: right;
