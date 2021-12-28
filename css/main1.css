@@ -199,7 +199,12 @@ cursor: pointer;
     margin:40px auto;
     gap: 30px;
 }
-@media(max-width:576px){
+@media(max-width:567px){
+    .contewre{
+        flex-direction: column;
+    }
+}
+@media(max-width:767px){
     .contewre{
         flex-direction: column;
     }
